@@ -4,6 +4,54 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: Dash Podcast 175 with Dash Core Head of Marketing Arden Goldstein
+    date: "2021-07-02"
+    website: https://www.youtube.com/watch?v=YyjkwmV0mlk&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod175_thumb.jpg
+    description: >
+      Dash Core Group's new head of marketing Arden Goldstein joins the Dash Podcast for a grand intro into the community.
+  - title: Dash Podcast 174 with Dash Core CFO Glenn Austin
+    date: "2021-06-18"
+    website: https://www.youtube.com/watch?v=V9HCX6-Gpjk&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod174_thumb.jpg
+    description: >
+      Glenn Austin, CFO of Dash Core Group, comes on the Dash Podcast to discuss all things finance and regulation surrounding Dash.
+  - title: Dash Podcast 173 with Mike Lewis of the Dash Investment Foundation
+    date: "2021-06-04"
+    website: https://www.youtube.com/watch?v=Y7rAr0Zfh98&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod173_thumb.jpg
+    description: >
+      Mike Lewis, Dash Investment Foundation supervisor, comes on the podcast to talk about the DIF in-depth and answer some questions.
+  - title: Dash Podcast 172 with Dash Core Developer Pasta on Version 0.17 Releas
+    date: "2021-05-21"
+    website: https://www.youtube.com/watch?v=wG-IS0LmF4I&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod172_thumb.jpg
+    description: >
+      Dash Core developer Pasta comes on the Dash Podcast immediately following the version 0.17 release to explain everything that's in it, and a whole lot more.
+  - title: Dash Podcast 171 with Dash Core Group Front End Product Owner Brian Foster
+    date: "2021-05-07"
+    website: https://www.youtube.com/watch?v=xWvQk4nSZZs&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod171.jpg
+    description: >
+      DFront End Product Owner for Dash Core Group Brian Foster comes on the podcast to introduce himself and talk about his role in Dash.
+  - title: Dash Podcast 170 with Dash Platform Developer Ivan Shumkov
+    date: "2021-04-23"
+    website: https://www.youtube.com/watch?v=pJ8FBbhhidg&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod170_thumb.jpg
+    description: >
+      Dash Platform developer Ivan Shumkov comes on the podcast to give a comprehensive overview of Dash Platform development up until the present time
+  - title: Dash Podcast 169 with Albert Castellana of StakeHound
+    date: "2021-04-09"
+    website: https://www.youtube.com/watch?v=h6rL5W6GLAI&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod169_thumb.jpg
+    description: >
+      Albert Castellana of StakeHound joins the Dash podcast to talk all things DeFi, particularly as it pertains to Dash. 
+  - title: Dash Podcast 168 with Mark Mason on What's New and Exciting in Dash
+    date: "2021-03-26"
+    website: https://www.youtube.com/watch?v=wQmqNOm97EA&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod168_thumb.jpg
+    description: >
+      The incomparable Mark Mason comes back on the Dash Podcast to talk about the exciting things coming up in the world of Dash
   - title: Dash Podcast 167 with Dash Core Developer Pasta
     date: "2021-03-12"
     website: https://www.youtube.com/watch?v=CwN_RDxcpOc&ab_channel=DigitalCashNetwork
