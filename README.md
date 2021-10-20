@@ -122,6 +122,14 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Videos
 
+- 2021-07-02: [Dash Podcast 175 with Dash Core Head of Marketing Arden Goldstein](https://www.youtube.com/watch?v=YyjkwmV0mlk&ab_channel=DigitalCashNetwork) - Dash Core Group's new head of marketing Arden Goldstein joins the Dash Podcast for a grand intro into the community.
+- 2021-06-18: [Dash Podcast 174 with Dash Core CFO Glenn Austin](https://www.youtube.com/watch?v=V9HCX6-Gpjk&ab_channel=DigitalCashNetwork) - Glenn Austin, CFO of Dash Core Group, comes on the Dash Podcast to discuss all things finance and regulation surrounding Dash.
+- 2021-06-04: [Dash Podcast 173 with Mike Lewis of the Dash Investment Foundation](https://www.youtube.com/watch?v=Y7rAr0Zfh98&ab_channel=DigitalCashNetwork) - Mike Lewis, Dash Investment Foundation supervisor, comes on the podcast to talk about the DIF in-depth and answer some questions.
+- 2021-05-21: [Dash Podcast 172 with Dash Core Developer Pasta on Version 0.17 Releas](https://www.youtube.com/watch?v=wG-IS0LmF4I&ab_channel=DigitalCashNetwork) - Dash Core developer Pasta comes on the Dash Podcast immediately following the version 0.17 release to explain everything that's in it, and a whole lot more.
+- 2021-05-07: [Dash Podcast 171 with Dash Core Group Front End Product Owner Brian Foster](https://www.youtube.com/watch?v=xWvQk4nSZZs&ab_channel=DigitalCashNetwork) - DFront End Product Owner for Dash Core Group Brian Foster comes on the podcast to introduce himself and talk about his role in Dash.
+- 2021-04-23: [Dash Podcast 170 with Dash Platform Developer Ivan Shumkov](https://www.youtube.com/watch?v=pJ8FBbhhidg&ab_channel=DigitalCashNetwork) - Dash Platform developer Ivan Shumkov comes on the podcast to give a comprehensive overview of Dash Platform development up until the present time
+- 2021-04-09: [Dash Podcast 169 with Albert Castellana of StakeHound](https://www.youtube.com/watch?v=h6rL5W6GLAI&ab_channel=DigitalCashNetwork) - Albert Castellana of StakeHound joins the Dash podcast to talk all things DeFi, particularly as it pertains to Dash.
+- 2021-03-26: [Dash Podcast 168 with Mark Mason on What's New and Exciting in Dash](https://www.youtube.com/watch?v=wQmqNOm97EA&ab_channel=DigitalCashNetwork) - The incomparable Mark Mason comes back on the Dash Podcast to talk about the exciting things coming up in the world of Dash
 - 2021-03-12: [Dash Podcast 167 with Dash Core Developer Pasta](https://www.youtube.com/watch?v=CwN_RDxcpOc&ab_channel=DigitalCashNetwork) - Dash Core Developer and wunderkind at large Pasta comes on the podcast to give an update on what the Core team has been working on with development.
 - 2021-02-12: [Dash Podcast 165 Anton Suprunchuk on Dash Platform Deep Dive](https://www.youtube.com/watch?v=rqsWTYbo2Vo&ab_channel=DigitalCashNetwork) - Dash developer Anton Suprunchuk comes on the Dash Podcast to go into a comprehensive deep dive on Dash Platform.
 - 2021-02-04: [Be a Dash developer by joining Dash Incubator and get paid!](https://youtu.be/eWqgRw46kH0) - This is a Dash Incubator promotion video.
@@ -152,26 +160,51 @@ Readme and the website are automatically generated. In order to add an element t
 
 ## Bounties
 
-- [Automated Faucet](https://trello.com/c/SoO5dtDj/32-automated-faucet) 
-- [C# DAPI Bindings](https://trello.com/c/6qVaLYmo/16-c-dapi-bindings) 
-- [Chrome Wallet](https://trello.com/c/XAwKVTjL/28-chrome-wallet) 
+- [Approach external R&D services](https://trello.com/c/Rj0tLQ8p/123-approach-external-rd-services) 
+- [Atomic Swaps](https://trello.com/c/o9l91FLG/96-atomic-swaps) 
+- [Attention Tipping Extension](https://trello.com/c/iwObyp5p/136-attention-tipping-extension) 
 - [Community EvoNet MN Hosting](https://trello.com/c/rzjc7eY1/26-community-evonet-mn-hosting) 
-- [Create Hello World Tutorial](https://trello.com/c/wEawlJb2/23-create-hello-world-tutorial) 
 - [DAPI Decentralized-HTTPS POC](https://trello.com/c/99FAe1iC/39-dapi-decentralized-https-poc) 
-- [Dapp-Dev Forum](https://trello.com/c/OpGFYBa4/41-dapp-dev-forum) 
-- [Dash Emojis for Discord](https://trello.com/c/BhXzmXez/7-dash-emojis-for-discord) 
-- [DashDevs.org Work](https://trello.com/c/iN58zxs0/19-dashdevsorg-work) 
+- [Dapp Signing](https://trello.com/c/JvbLYmew/76-dapp-signing) 
+- [Dash Artwork Contest](https://trello.com/c/k7o4ZYb2/128-dash-artwork-contest) 
+- [Dash Incubator App V2](https://trello.com/c/Fx1l1CvO/130-dash-incubator-app-v2) 
+- [DASH Lolli Extension](https://trello.com/c/dg5arOrq/153-dash-lolli-extension) 
+- [DASH Patreon Alternative](https://trello.com/c/JaCCRWky/125-dash-patreon-alternative) 
+- [Dash Platform Projects Upgrade](https://trello.com/c/uFaCFImX/65-dash-platform-projects-upgrade) 
+- [DASH Provably Fair RNG Game](https://trello.com/c/AsywEE5W/148-dash-provably-fair-rng-game) 
+- [DashDapps Website](https://trello.com/c/7uE2YcMU/112-dashdapps-website) 
+- [DASHDevs.Org Getting Started](https://trello.com/c/pxG8kpDr/147-dashdevsorg-getting-started) 
+- [DashNews App](https://trello.com/c/SaN50j1F/140-dashnews-app) 
+- [DashPay Extension](https://trello.com/c/dCjtC7JH/124-dashpay-extension) 
+- [DashPay JS](https://trello.com/c/9RzFdmbB/116-dashpay-js) 
+- [DashPay JS Programme](https://trello.com/c/EvTk6oYo/144-dashpay-js-programme) 
+- [Data Oriented Tokens](https://trello.com/c/eJCQLBUf/98-data-oriented-tokens) 
+- [Decentralized Identity (DID)](https://trello.com/c/6iAm9pjk/40-decentralized-identity-did) 
+- [Decentralized TLS/HTTPS for DAPI](https://trello.com/c/99FAe1iC/39-decentralized-tls-https-for-dapi) 
+- [Distributed Thumbnail Image Service](https://trello.com/c/TAVGPNOX/156-distributed-thumbnail-image-service) 
 - [EvoWallet](https://trello.com/c/MJrfbOp3/33-evowallet) 
-- [Get Identity from Mnemonic](https://trello.com/c/LoFua90X/44-get-identity-from-mnemonic) 
-- [Golang DAPI Bindings](https://trello.com/c/ErETMzMX/21-golang-dapi-bindings) 
-- [Memo Dash Dapp](https://trello.com/c/Kzn8JX12/12-memo-dash-dapp) 
-- [Pay-To-Username tipping POC](https://trello.com/c/ojljh1EP/36-pay-to-username-tipping-poc) 
+- [Freelancer Dapp](https://trello.com/c/xHKvn8xW/138-freelancer-dapp) 
+- [Governance Portal](https://trello.com/c/c36t7QSM/141-governance-portal) 
+- [Incubator Templates](https://trello.com/c/p61W3mjP/151-incubator-templates) 
+- [Integrating Dash into 3rd-Party Software](https://trello.com/c/GE5g9iHq/87-integrating-dash-into-3rd-party-software) 
+- [Jembe Dapp](https://trello.com/c/Kzn8JX12/12-jembe-dapp) 
+- [Jembe Dapp](https://trello.com/c/Kzn8JX12/12-jembe-dapp) 
+- [Linktree Alternative](https://trello.com/c/2SHTEqG3/129-linktree-alternative) 
+- [Machine Learning Micropayments](https://trello.com/c/zciecaSV/137-machine-learning-micropayments) 
+- [Masternode Multi-Party Payouts](https://trello.com/c/iGoVoTb3/107-masternode-multi-party-payouts) 
+- [MN Trustless Shares](https://trello.com/c/Y3MRKnPj/127-mn-trustless-shares) 
+- [Official Platform Block Explorer](https://trello.com/c/M5phs7NJ/119-official-platform-block-explorer) 
+- [Password + Public-Private-Key Manager](https://trello.com/c/S48CSFL4/111-password-public-private-key-manager) 
+- [Payments API](https://trello.com/c/pincRNBU/134-payments-api) 
 - [Platform Console](https://trello.com/c/Xezls3IC/9-platform-console) 
 - [Platform Explorer](https://trello.com/c/ezAfj6lG/18-platform-explorer) 
 - [Platform-UserID Secure Messaging Library](https://trello.com/c/qPtO4KF9/42-platform-userid-secure-messaging-library) 
-- [Python DAPI Bindings](https://trello.com/c/o7Rf2ETW/15-python-dapi-bindings) 
-- [Rust DAPI Bindings](https://trello.com/c/7EwpLxKZ/13-rust-dapi-bindings) 
-- [Web Dapp Sample](https://trello.com/c/MsnBjQ15/29-web-dapp-sample) 
+- [Private Messenger Dapp](https://trello.com/c/LUyEnwJ9/46-private-messenger-dapp) 
+- [Research Smart-Contract Integration](https://trello.com/c/VqEmk1dh/53-research-smart-contract-integration) 
+- [StrawPoll Dapp](https://trello.com/c/HxGanCjQ/146-strawpoll-dapp) 
+- [TenderDash Development](https://trello.com/c/uYNFyFp7/150-tenderdash-development) 
+- [Tendermint backports (Go programing language)](https://trello.com/c/yM9JfDEX/104-tendermint-backports-go-programming-language) 
+- [THORChain Integration](https://trello.com/c/CDKTVi9x/152-thorchain-integration) 
 
 ## Discussions
 
