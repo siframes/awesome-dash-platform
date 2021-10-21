@@ -4,6 +4,48 @@ description: Videos about Dash Platform.
 weight: 6
 icon: stroke_speaker
 content:
+  - title: Dash Podcast 182 with Dash Core Group Head of Business Development Ernesto Contreras
+    date: "2021-10-08"
+    website: https://www.youtube.com/watch?v=Nu5qQ0ugFP8&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod182_thumb.jpg
+    description: >
+      Ernesto Contreras, the Head of Business Development for Dash Core Group, comes on the Dash Podcast to give the community an update on the organization's business development efforts for Dash.
+  - title: Dash Podcast 181 with Dash Core Group CEO Ryan Taylor
+    date: "2021-09-24"
+    website: https://www.youtube.com/watch?v=DAjhQQpt7IU&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod181_thumb.jpg
+    description: >
+      Ryan Taylor, CEO of the Dash Core team, comes on the Dash Podcast for a regular update and Q&A on the status of Dash.
+  - title: Dash Podcast 180 with CrayPay and DashDirect CEO Marshall Greenwald
+    date: "2021-09-10"
+    website: https://www.youtube.com/watch?v=-7fIAOjsyeY&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod180_thumb.jpg
+    description: >
+      Marshall G. CEO of CrayPay, the company behind the popular DashDirect app, comes on the Dash Podcast to answer any and all questions pertaining to the app and its roadmap.
+  - title: Dash Podcast 179 with Rion Gull of the Dash Incubator and Dash Marketing Hub
+    date: "2021-08-27"
+    website: https://www.youtube.com/watch?v=lLrvd5XLKF4&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod179_thumb.jpg
+    description: >
+      Rion Gull, head of the Dash Incubator and admin in the Dash Marketing Hub, comes on the Dash Podcast to talk about the bounty model revolution.
+  - title: Dash Podcast 178 Darren Tapp of the Dash Investment Foundation
+    date: "2021-08-13"
+    website: https://www.youtube.com/watch?v=Hn7Q-m-HdRE&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod178_thumb.jpg
+    description: >
+      Darren Tapp of the Dash Investment Foundation comes on the Dash Podcast to break down two the the biggest successes the DIF has had this year: Valkyrie and DashDirect.
+  - title: Dash Podcast 177 with New Dash Core Group CTO Samuel Westrich 
+    date: "2021-07-30"
+    website: https://www.youtube.com/watch?v=1ALZfg2HqKM&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod177_thumb.jpg
+    description: >
+      Samuel Westrich, a.k.a. QuantumExplorer, the new CTO of Dash Core Group, comes on the Dash Podcast to talk his agenda as CTO, and all the new things we can expect.
+  - title: Dash Podcast 176  with Mark Mason DashDirect, Dash Marketing Hub and More! 
+    date: "2021-07-16"
+    website: https://www.youtube.com/watch?v=FXwJA1vlpts&ab_channel=DigitalCashNetwork
+    picture: /images/videos/dash_pod1761_thumb.jpg
+    description: >
+      The incomparable Mark Mason comes on the Dash Podcast to talk, for once, about everything wrong with, and holding back, Dash.
   - title: Dash Podcast 175 with Dash Core Head of Marketing Arden Goldstein
     date: "2021-07-02"
     website: https://www.youtube.com/watch?v=YyjkwmV0mlk&ab_channel=DigitalCashNetwork
